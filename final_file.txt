@@ -1,0 +1,8 @@
+files are different.
+
+---content of file1.txt---
+This is the content of file 1.
+Date: 24-12-10
+---content of file2.txt----
+This is the content of file 2.
+Date: 24-12-10
